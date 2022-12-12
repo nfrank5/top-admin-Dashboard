@@ -258,6 +258,7 @@ button {
 
 .trend > div {
   grid-area: 1/2/2/3;
+  justify-self: start;
 }
 
 .trend > div > p:nth-child(2) {
